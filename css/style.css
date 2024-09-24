@@ -126,9 +126,10 @@ img {
 /* Pricing */
 .pricing .pricing-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 30px;
-  margin-top: 50px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 30px;
+  margin-bottom: 10px;
 }
 
 .pricing .pricing-card-subheading {
